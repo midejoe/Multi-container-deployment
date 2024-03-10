@@ -32,7 +32,7 @@ This project focuses on deploying multi-container applications using Terraform f
 2. Run terraform init to initialize the Terraform configuration.
 3. Execute terraform apply to create the specified resources.
 
-<!-- ### Security Considerations
+### Security Considerations
 1. Ensure that sensitive information such as access keys, secrets, and passwords are stored securely and not exposed in the codebase.
 2. Review and customize security group settings based on your organization's security policies.
 
@@ -41,4 +41,4 @@ This project focuses on deploying multi-container applications using Terraform f
 2. Monitor the infrastructure components for any changes in requirements or configurations.
 
 ### Contributing
-Feel free to contribute to the project by submitting issues or pull requests. Your feedback and collaboration are highly appreciated! -->
+Feel free to contribute to the project by submitting issues or pull requests. Your feedback and collaboration are highly appreciated!
